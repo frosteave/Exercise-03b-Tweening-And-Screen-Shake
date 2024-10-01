@@ -6,7 +6,7 @@ The second exercise adding "juicy" features to a simple brick-breaker game.
 
 ## To play
 
-Move the paddle using the W and A. Help the ball break all the bricks before you run out of lives.
+Move the paddle using the W and A, use the spacebar to shoot the ball. Help the ball break all the bricks before you run out of lives.
 
 
 ## Implementation
